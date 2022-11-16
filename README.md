@@ -128,8 +128,7 @@ if (isAwesome){
 
  return true
 
-}
-```
+}```
 ```
 #### Formated Text
 ```javascript
@@ -141,3 +140,21 @@ if (isAwesome){
 }
 
 ```
+### 13. Escaping:
+#### Example
+```javascript
+\ backslash
+` backtick
+* asterisk
+_ underscore
+{} curly braces
+[] square brackets
+() parentheses
+# hash symbol
++ plus sign
+– minus sign (hyphen)
+. dot
+! exclamation mark
+```
+#### formated Text
+![image](https://user-images.githubusercontent.com/50274053/202249944-186102a5-ad58-4bd7-83e1-f11b72300eda.png)
