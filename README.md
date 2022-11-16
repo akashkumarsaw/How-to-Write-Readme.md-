@@ -158,3 +158,43 @@ _ underscore
 ```
 #### formated Text
 ![image](https://user-images.githubusercontent.com/50274053/202249944-186102a5-ad58-4bd7-83e1-f11b72300eda.png)
+### 14. Lists within a blockquote:
+```javascript
+> This is a blockquote
+> * This is a list item within a blockquote
+> * This is a list item within a blockquote
+> * This is a list item within a blockquote
+```
+> This is a blockquote
+> * This is a list item within a blockquote
+> * This is a list item within a blockquote
+> * This is a list item within a blockquote
+###  15. Task Lists:
+```javascript
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported) 
+- [x] this is a complete item 
+- [ ] this is an incomplete item 
+```
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported) 
+- [x] this is a complete item 
+- [ ] this is an incomplete item 
+### 16. Tables:
+```javascript
+First Header | Second Header 
+ ------------ | ------------- 
+Content from cell 1 | Content from cell 2 
+Content in the first column | content in the second column
+```
+First Header | Second Header 
+ ------------ | ------------- 
+Content from cell 1 | Content from cell 2 
+Content in the first column | content in the second column
+### 17. Mathematical expressions :
+```javascript
+$$<<mathematical expression>>$$
+
+$$\sqrt{3}+1$$
+```
+$$\sqrt{3}+1$$
